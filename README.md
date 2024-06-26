@@ -13,7 +13,7 @@ HTML5: Structure and content of the web page.CSS3: Styling and responsive design
 Through this project, I gained insights into:Implementing responsive web design principles.Enhancing user experience with animations and transitions.Optimizing images and assets for better performance.Ensuring compatibility across different browsers and devices.Applying SEO best practices to improve search engine visibility.
 <h1>Personal portfolio website</h1>
 
-
+![Screenshot 2024-06-26 194820](https://github.com/swapna4404/PRODIGY_INFO_TECH/assets/172264225/4b6469d7-52a2-4a23-96fa-30bac7ba7550)
 <h2>Description</h2>
 This repository contains code for my personal portfolio website. It showcases my skills, projects, and experiences in a visually appealing and interactive manner. The website is designed to provide visitors with an overview of my background, accomplishments, and contact information.
 <h2>Features</h2>
