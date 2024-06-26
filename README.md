@@ -12,6 +12,8 @@ HTML5: Structure and content of the web page.CSS3: Styling and responsive design
 <h2>Knowledge Gained</h2>
 Through this project, I gained insights into:Implementing responsive web design principles.Enhancing user experience with animations and transitions.Optimizing images and assets for better performance.Ensuring compatibility across different browsers and devices.Applying SEO best practices to improve search engine visibility.
 <h1>Personal portfolio website</h1>
+
+
 <h2>Description</h2>
 This repository contains code for my personal portfolio website. It showcases my skills, projects, and experiences in a visually appealing and interactive manner. The website is designed to provide visitors with an overview of my background, accomplishments, and contact information.
 <h2>Features</h2>
@@ -20,3 +22,4 @@ About Me Section: A brief introduction highlighting my professional background a
 HTML5: Structure and content of the web pages.CSS3: Styling and responsive design implementation.JavaScript: Adding interactivity and dynamic behavior.Bootstrap: Front-end framework for responsive design components.jQuery: JavaScript library for DOM manipulation and AJAX requests.FontAwesome: Icons used for visual enhancements.Google Fonts: Custom fonts for typography.
 <h2>Knowledge Gained</h2>
 Through developing this portfolio website, I acquired valuable skills in:Designing and implementing a responsive and visually appealing layout.Integrating third-party libraries and frameworks for enhanced functionality.Optimizing website performance and loading times.Implementing animations and transitions to improve user engagement.Creating a professional online presence to showcase my skills and projects effectively.
+
