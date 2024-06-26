@@ -1,6 +1,8 @@
 # PRODIGY_INFO_TECH
 PIT/JUN24/08058
 <h1>Responsive Landing Page</h1>
+
+
 <h2>Description</h2>
 This project is a responsive landing page template designed to provide a sleek and professional web presence for various purposes. It is built with a focus on usability and aesthetics, ensuring compatibility across different devices and screen sizes.
 <h2>Features</h2>
